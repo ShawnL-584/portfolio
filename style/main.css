@@ -33,3 +33,9 @@ header a img {
   height: 260px;
   object-fit: cover;
 }
+
+.me-img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
