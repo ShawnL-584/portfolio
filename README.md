@@ -1,4 +1,4 @@
-# 🌐 ** Web Developer Portfolio**
+# 🌐  Web Developer Portfolio
 
 📌 **Live Demo**: [My Portfolio on Render](https://portfolio-w0hj.onrender.com/)
 
